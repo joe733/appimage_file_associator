@@ -10,9 +10,9 @@ Embracing the change LibreOffice 💼 the best Office 365 alternative recently l
 
 > There's a daemon which performs advanced tasks than this script. You can find it here: [appimaged](https://github.com/AppImage/appimaged) by [AppImage](https://github.com/AppImage).
 
-Ususally an AppImage does not come included with file type association. In simple terms you may not be able to open a file direclty from a folder. For example if you have _only_ LibreOffice AppImage in your system a `.docx` or `.odp` file cannot be opened from a directory.
+Ususally an AppImage does not come included with file type association. In simple terms you may not be able to open a file direclty from a folder. For example if you have _only_ LibreOffice AppImage in your system a `.docx` or `.odp` file cannot be opened from a directory. Oh oh..🙄 so what should I do?
 
-Now to overcome this I've written a simple python script which will make life easier if you just run. It will automatically associate file types with the respective AppImage. Currently this supports LibreOffice and I will add more as and when time permits.
+To overcome this I've written a simple python script which makes things a lot easier. It will automatically associate file types with the respective AppImage. Currently this supports LibreOffice and I will add more as and when time permits.
 
  - If you find this cool 😎 and can't wait you can open up pull requests [here](https://github.com/joe247/appimage_file_associator/pulls).
   - If you find any imporvements / issues bugguing 🐞 you ping me [here](https://github.com/joe247/appimage_file_associator/issues).
