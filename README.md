@@ -1,3 +1,7 @@
+# ⚠️ Archived ⚠️
+
+AppImage Launcher is an awesome tool which does what I wanted for AppImages. Go ahead and 🌟 [AppImage Launcher](https://github.com/TheAssassin/AppImageLauncher) to keep them movtivated to develop it.
+
 # Appimage File Associator
 
 [AppImage](https://appimage.org/) as we know, is a next gen Linux software packaging 📦 tool. It is distro independent 😃 which means it can run on most of the thousands of Linux 🐧 distributions available online. Besides you can run it with single click 🖱 that's intersting isn't it...? Gone are the days when PC 🖥 users hit out at Linux distros' UX saying it difficult to even install ⚙️ a simple application.
